@@ -8,37 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GenZBookRazorPages
 build_property.RootNamespace = GenZBookRazorPages
-build_property.ProjectDir = D:\Project ASP.NET Core MVC (.NET 6)\RazorPages\GenZBookRazorPages\
+build_property.ProjectDir = D:\My Projects\genzbook_razorpages\GenZBookRazorPages\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Project ASP.NET Core MVC (.NET 6)\RazorPages\GenZBookRazorPages
+build_property.MSBuildProjectDirectory = D:\My Projects\genzbook_razorpages\GenZBookRazorPages
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Project ASP.NET Core MVC (.NET 6)/RazorPages/GenZBookRazorPages/Pages/Error.cshtml]
+[D:/My Projects/genzbook_razorpages/GenZBookRazorPages/Pages/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/My Projects/genzbook_razorpages/GenZBookRazorPages/Pages/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/My Projects/genzbook_razorpages/GenZBookRazorPages/Pages/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/My Projects/genzbook_razorpages/GenZBookRazorPages/Pages/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/My Projects/genzbook_razorpages/GenZBookRazorPages/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project ASP.NET Core MVC (.NET 6)/RazorPages/GenZBookRazorPages/Pages/Index.cshtml]
+[D:/My Projects/genzbook_razorpages/GenZBookRazorPages/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project ASP.NET Core MVC (.NET 6)/RazorPages/GenZBookRazorPages/Pages/Privacy.cshtml]
+[D:/My Projects/genzbook_razorpages/GenZBookRazorPages/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project ASP.NET Core MVC (.NET 6)/RazorPages/GenZBookRazorPages/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/My Projects/genzbook_razorpages/GenZBookRazorPages/Pages/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/My Projects/genzbook_razorpages/GenZBookRazorPages/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project ASP.NET Core MVC (.NET 6)/RazorPages/GenZBookRazorPages/Pages/_ViewImports.cshtml]
+[D:/My Projects/genzbook_razorpages/GenZBookRazorPages/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project ASP.NET Core MVC (.NET 6)/RazorPages/GenZBookRazorPages/Pages/_ViewStart.cshtml]
+[D:/My Projects/genzbook_razorpages/GenZBookRazorPages/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project ASP.NET Core MVC (.NET 6)/RazorPages/GenZBookRazorPages/Pages/Shared/_Layout.cshtml]
+[D:/My Projects/genzbook_razorpages/GenZBookRazorPages/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-erjqdpd7lu
